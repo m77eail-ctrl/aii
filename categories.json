@@ -1,0 +1,37 @@
+[
+  {
+    "id": "assist",
+    "name": "المساعدات والكتابة",
+    "en": "Assistants & Writing",
+    "icon": "message-circle",
+    "sub": "الأفكار والبحث والتحرير"
+  },
+  {
+    "id": "design",
+    "name": "الصور والتصميم",
+    "en": "Image & Design",
+    "icon": "palette",
+    "sub": "اصنع صورًا وتصاميم مميزة"
+  },
+  {
+    "id": "video",
+    "name": "الفيديو والصوت",
+    "en": "Video & Audio",
+    "icon": "video",
+    "sub": "أنتج فيديوهات وصوتيات"
+  },
+  {
+    "id": "coding",
+    "name": "البرمجة والتطبيقات",
+    "en": "Coding & Apps",
+    "icon": "code-2",
+    "sub": "طوّر مواقع وتطبيقات بسرعة"
+  },
+  {
+    "id": "productivity",
+    "name": "التسويق والإنتاجية",
+    "en": "Marketing & Productivity",
+    "icon": "chart-no-axes-combined",
+    "sub": "أنجز أعمالك بذكاء"
+  }
+]
